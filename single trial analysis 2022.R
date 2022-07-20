@@ -64,7 +64,7 @@ for(i in 1:length(ustud)){
   sub<- droplevels.data.frame(data[which(data$studyName == ustud[i]),])
   
   #traits
-  trt<- colnames(sub)[c(41:44)]
+  trt<- colnames(sub)[c(41:43, 45)]
   
   for(j in 1:length(trt)){
     if(!is.na(var(sub[,trt[j]], na.rm=TRUE))){
