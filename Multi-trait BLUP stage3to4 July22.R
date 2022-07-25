@@ -137,13 +137,39 @@ blups_Scab<- read.csv('BLUPscabJul18.csv', row.names=1)
 blups<- merge(cast(blups_Agronomic, germplasmName~trait, value= 'predicted.value'), 
               cast(blups_Scab, germplasmName~trait, value= 'predicted.value'), by='germplasmName', all.x=TRUE, all.y=FALSE)
 
-net_merit<- netMerit(blups$`Heading.time...Julian.date..JD..`, blups_wide$`Grain.yield...bu.ac`, 
-         blups$`FHB.DON.content...ppm.`, blups_wide$`FHB.grain.incidence.....`, 
+net_merit<- netMerit(blups$`Heading.time...Julian.date..JD..`, blups$`Grain.yield...bu.ac`, 
+         blups$`FHB.DON.content...ppm.`, blups$`FHB.grain.incidence.....`, 
          blups$`Grain.test.weight...lbs.bu`, wheat_price0=wheat_price0, soybean_price=soybean_price)
 
 blups<- cbind(blups, net_merit)
 for(i in 2:ncol(blups)){
-  blups[,i]<- round(blups[,i])
+  blups[,i]<- round(blups[,i], 1)
 }
 
 write.csv(blups, file='multitraitBlups stage3to4 July22.csv')
+
+#get notes
+notes<- read.csv('~/Documents/Wheat/2022/stage3to4notes.csv')
+notes<- notes[-grep('harvest day', notes$notes),]
+study<-matrix(unlist(strsplit(notes$observationUnitName, split="-")), nrow=2)[1,]
+study<- gsub("_", "", study)
+notes$notes<- trimws(notes$notes)
+notes$notes<- paste(study, paste("[", notes$notes, "]", sep=""), sep="")
+ugid<- unique(notes$germplasmName)
+gidnote<-c()
+for(i in 1:length(ugid)){
+  gidnote<- append(gidnote, paste(notes[which(ugid[i]== notes$germplasmName),'notes'], collapse="; "))
+}
+df<- data.frame(germplasmName=ugid, notes=gidnote)
+df<- merge(blups, df, by='germplasmName')
+write.csv(df, file='multitraitBlups stage3to4 July22.csv')
+
+##add the seed amounts
+minc<- read.csv("~/Documents/Wheat/2022/wheat_medinc_seedlots.csv")
+minc_des<- read.csv("~/Documents/Wheat/2022/minc_design.csv")
+minc[grep('less', minc$Quick.Note.),'Weight..lb.']<- c(20, 20)
+minc<- merge(minc_des, minc, by=c('Range.', 'Row.'))[,c('germplasmName', 'Weight..lb.')]
+dim(minc)
+dim(df)
+df<- merge(df, minc, by='germplasmName', all=TRUE)
+write.csv(df, file='multitraitBlups stage3to4 July22.csv')

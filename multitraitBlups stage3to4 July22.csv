@@ -1,172 +1,172 @@
-"","germplasmName","Grain.test.weight...lbs.bu","Grain.yield...bu.ac","Heading.time...Julian.date..JD..","Plant.height.inches","FHB.DON.content...ppm.","FHB.grain.incidence....."
-"1","07-19334",59.4,91.3,133.1,38.4,1.3,17.9
-"2","12-26004",58,79.8,127.6,35.9,0.7,9
-"3","16-8048",59.2,90.1,132.1,37.2,0.8,10.2
-"4","17-8930",56.8,89.2,127.5,36.2,2.3,29.6
-"5","18-12001",58.5,79.1,131,38.3,0.9,13
-"6","18-12756",59.1,83.7,130.1,37,0.8,11.2
-"7","18-12809",58.9,81.6,131,38.3,0.8,9.8
-"8","18-13748",59.5,78.5,130.8,38.1,0.7,9.7
-"9","18-13756",58.9,75.4,131,37.6,0.8,9.5
-"10","18-13765",59.3,89.8,130.3,38.7,0.9,11.7
-"11","18-13852",58.7,87,133.3,37.8,1.2,16
-"12","18-13965",59.2,74.2,131.3,36.6,0.7,9.2
-"13","18-14535",58.5,87.9,130.3,36.6,0.9,11
-"14","18-15372",59.2,81.6,129.2,37.5,0.9,12.9
-"15","18-16828",58.9,78.9,131.3,37.4,1.2,11.9
-"16","18-17119",58.6,82.6,129.3,37.3,1.4,17.2
-"17","18-17905",58.7,89.5,130.1,37.4,1.3,18.6
-"18","18-22132",60,84.1,130.7,37.9,0.7,10.6
-"19","18-22767",58.6,81.3,129.8,38.2,0.7,10.2
-"20","18-22976",59.5,86.8,131.5,38.2,1.1,10.3
-"21","18-23224",59.4,81.9,130.1,39.7,1.1,17.8
-"22","18-23760",58.8,84.1,132.9,38.8,1.4,16.6
-"23","18-26037",59.5,88.6,131.3,39,0.8,10.4
-"24","18-4910",59.9,79.5,130.8,36.5,0.5,6.8
-"25","18-5737",58.7,81.6,130.7,37.9,0.7,14.1
-"26","18-5837",60,82.5,130.5,37.8,0.7,11.9
-"27","18-6274",60.4,90.8,129.4,38.9,1.1,13.6
-"28","18-6852",58.6,93,129.4,36,1.3,16.5
-"29","18-7928",59.4,84.8,129.9,35.8,0.9,13.2
-"30","18-7943",59.1,77.6,129.4,35.9,1.2,19
-"31","18-842",58.6,86.8,130,38.2,0.7,11.3
-"32","18-9724",59.8,83.5,130.4,36.7,1.1,13.6
-"33","18MSFRS-18",59.5,92.9,132.3,37.3,0.9,11.2
-"34","19-10123",58.8,86.7,128.7,37.7,0.6,10.5
-"35","19-10136",60.1,82,130.8,38,0.9,13.8
-"36","19-10142",59.9,83,130.8,36.6,0.8,9
-"37","19-10151",60.2,85.1,131.2,38,0.9,11.5
-"38","19-10168",60.2,83.1,132.1,38.3,0.9,12.5
-"39","19-10173",60.3,82,130.5,38.7,0.8,11.5
-"40","19-10236",59.8,78.3,130,38.2,0.6,8.4
-"41","19-11163",59.4,82.3,128.4,38.6,0.5,7.8
-"42","19-11770",59.8,85.2,131.8,37,0.5,6.8
-"43","19-11773",60,83.2,130.9,38.8,0.8,14.6
-"44","19-12420",60,81.7,130.3,38.2,0.7,9.3
-"45","19-12615",59.4,84.9,130.8,39.2,0.9,12.5
-"46","19-12659",59,81.7,128.6,38.8,0.7,9
-"47","19-12830",59.7,85.4,131,39.4,0.8,14.7
-"48","19-12849",59.8,79.4,130.9,37.7,1.3,12.1
-"49","19-12926",59,83.4,129.9,37.6,0.9,11.4
-"50","19-13048",58,80.6,130.3,37.8,0.5,9.1
-"51","19-13414",59.9,89.4,132,38,0.9,10.4
-"52","19-13434",60.2,81.2,131,39.9,0.7,11.5
-"53","19-13447",59.3,83.8,131,37.2,1,16.1
-"54","19-13451",59.1,83.6,129.7,37.7,0.8,12.7
-"55","19-13706",59.2,80.6,131.7,38.3,0.6,12.3
-"56","19-13707",60.4,78.6,130.2,38.9,0.5,8.1
-"57","19-13713",59.1,82.5,129.7,37.9,0.5,7.6
-"58","19-13748",60.6,78,130.2,38.5,0.7,9.1
-"59","19-13752",60,79.7,130.1,39.1,1.2,16.4
-"60","19-13778",60.5,78.3,131.6,38.8,0.8,10
-"61","19-13936",59.6,82.6,128.9,37.2,0.5,7
-"62","19-13942",59.1,85.3,128.2,39,0.7,8.5
-"63","19-13961",58.9,84.8,129.2,37.1,0.6,10.5
-"64","19-13978",59.5,85,128.2,37.9,0.6,8.5
-"65","19-14605",58.2,84.5,130.6,38.7,1,17.2
-"66","19-14617",58.6,85.8,127.7,37.2,0.5,9.4
-"67","19-14845",58.3,84.5,128.6,38.2,0.6,8.8
-"68","19-14856",58.5,90.3,127.7,37.4,0.8,11
-"69","19-14933",58.5,85.5,128,38.4,0.6,9.8
-"70","19-15017",58.7,82.9,128,38,0.7,15.1
-"71","19-15327",58.3,86.5,131.1,39,0.6,11.9
-"72","19-15330",59,85.4,130.8,39,0.7,8.1
-"73","19-16129",59,87.4,132.4,37.9,0.6,7.7
-"74","19-16136",57.9,90.7,131.5,37.8,0.8,12.7
-"75","19-16142",59.5,82.8,131.2,37.6,0.8,15.2
-"76","19-16152",58.9,86.5,132,38,0.5,12.9
-"77","19-16176",59.2,86.3,130.6,37.8,1.2,22.7
-"78","19-16279",58.7,82.4,130.9,39.1,0.5,6.7
-"79","19-16325",58.7,82.6,129.9,39.1,0.9,10.5
-"80","19-16368",58.8,85.6,131.7,39.3,1.2,20.6
-"81","19-16856",58.6,85.5,132.6,37.8,0.7,10.7
-"82","19-17051",58.3,82.2,130.8,38.2,1.4,18.9
-"83","19-17467",58.7,81.1,132.5,36.7,0.7,12.7
-"84","19-17546",58.6,84.2,128.4,38.3,1,15.2
-"85","19-17662",59.1,86.7,130.4,38.2,0.8,11.6
-"86","19-17823",59.1,85.3,133,38.2,0.8,11.2
-"87","19-18152",59.6,82.2,132.3,37.9,0.8,9.6
-"88","19-18153",59.2,88.4,131.1,37.8,1,11.2
-"89","19-18156",58.9,86.6,132.9,36.5,1,13.1
-"90","19-18157",59.3,83.7,131.6,36.4,0.6,10
-"91","19-18725",58.9,89.2,129.9,36,1.1,23.5
-"92","19-18826",58.7,88,130.6,37.9,1,13.6
-"93","19-18832",58.7,81.5,131.4,36.7,0.6,10
-"94","19-18837",59.1,86.2,131.8,37,0.6,7.5
-"95","19-18957",58.5,81.5,128.6,36.7,0.5,7.4
-"96","19-19146",58.5,84.2,132,37.8,0.6,11
-"97","19-19159",59.3,79.5,131.1,36.9,0.6,8.5
-"98","19-19205",59.1,85.4,130.2,34.2,1,13.9
-"99","19-20069",58.8,83.3,131,38,0.6,7.8
-"100","19-20348",58.7,90.4,130.6,37.1,1.1,12.9
-"101","19-20402",58.3,85.2,131,37.5,1.2,18.9
-"102","19-20648",60,82.9,131.5,38.7,0.8,8.4
-"103","19-21467",58.3,86.4,130.3,36.4,1.2,19.4
-"104","19-21574",58.5,79.6,130.6,38.6,0.8,13.5
-"105","19-21760",58.3,88.2,130.9,35.9,0.6,7.3
-"106","19-21821",59.5,86.7,130.5,38.1,0.8,11
-"107","19-21829",59,86,130.2,38,0.6,11.6
-"108","19-21846",60.5,83.7,131,38.7,0.9,13.3
-"109","19-21848",58.7,88.2,129.6,36.7,0.6,11.3
-"110","19-21865",59.3,82.3,129.4,37.2,0.9,14.4
-"111","19-21924",59.8,83.6,130.7,40,0.9,11.4
-"112","19-22105",59.5,83.4,129.4,38.7,0.7,12.2
-"113","19-22742",58.6,86.2,129.1,37.1,1.4,20.6
-"114","19-22757",59.7,87.4,129.8,38,0.5,8.8
-"115","19-23251",58.7,85,130.9,38.7,0.7,14
-"116","19-23336",58.7,85.8,131.3,38.2,0.8,9.6
-"117","19-23350",58.7,86.8,131.4,37.7,1.2,23.5
-"118","19-23833",59.7,85.3,132.2,38.4,0.9,16.3
-"119","19-23855",58.9,82.3,130,38,0.5,7.6
-"120","19-24051",59,78.4,132.3,36.4,0.8,10.7
-"121","19-24061",58.3,79.3,129,37.7,0.6,7.1
-"122","19-24076",57.2,81.3,130.9,36.9,0.7,11.2
-"123","19-25126",59.5,89.1,131.7,38.6,0.7,10.8
-"124","19-25145",59.3,80.8,130,38.7,1.1,11.1
-"125","19-25245",59.8,88.4,130.6,38,1,15.4
-"126","19-25464",58.6,86.2,132.2,38.3,1.3,21.3
-"127","19-25469",59.2,82.7,129.9,38,0.7,16.1
-"128","19-25743",60,82.6,131.8,38.1,0.6,8.5
-"129","19-25764",58.8,84.5,129.3,38.4,0.9,16.5
-"130","19-26456",59.1,82.8,128.8,36.7,0.9,13.6
-"131","19-26709",58.9,86.2,128.4,37.3,1,10.5
-"132","19-27466",58.3,85,131.3,37.3,1,14.1
-"133","19-27478",59,86.2,131.7,37.8,0.8,11.4
-"134","19-27565",60.2,90.1,131.3,39.6,0.7,8.9
-"135","19-27944",59.6,77.6,129.5,37.2,0.7,7.5
-"136","19-3502",59.6,82.8,129.4,38.8,0.5,7.1
-"137","19-3505",59.2,80.7,129.7,39.2,0.7,8.1
-"138","19-3510",59.3,84.2,130.3,40.3,0.4,4.7
-"139","19-3528",59.1,86.7,130.3,39.5,0.6,8.4
-"140","19-3538",57.8,83.6,129.3,37.8,0.8,13.3
-"141","19-3943",57.4,86,131.8,38.8,0.6,14.6
-"142","19-4014",58.1,84.6,129.6,38.3,0.5,10
-"143","19-4151",59.3,85.3,129.9,38.6,0.8,10.4
-"144","19-4176",58.9,84.7,130.5,39,1,16.3
-"145","19-4238",58.8,80.8,130.1,38.2,0.8,11.1
-"146","19-5009",59.5,78.2,129.7,39,0.8,10
-"147","19-5041",59.4,80.6,128.3,39.1,1.2,11.7
-"148","19-5122",59.6,88.4,131.4,37.7,1.2,15.7
-"149","19-5152",58.6,85.4,131.7,38.4,1,14.9
-"150","19-5466",59.3,89.6,129.8,36.2,1.4,21.8
-"151","19-5632",59,85.9,129.2,36.9,1.4,26.3
-"152","19-6308",60.2,83,130.9,37.6,0.8,11.9
-"153","19-6637",59.7,89.1,131,37.3,1.2,15.6
-"154","19-6704",57.4,86.7,129.4,38.5,0.6,13.1
-"155","19-6946",58.5,87.9,129.2,37.8,1.1,20
-"156","19-8449",58.8,84.7,130.4,38.3,1.3,15.4
-"157","19-8870",59.4,85.7,131.2,37.8,0.8,11.8
-"158","19-8871",58.8,87.8,131.5,38.3,1,13.8
-"159","19-8909",59.4,83.5,131.1,37.4,0.9,13.7
-"160","19-9608",59.3,85.1,130.6,38.1,1.8,26
-"161","Kaskaskia",59.4,78.6,134.1,41.1,2.1,32.3
-"162","Pio 25R74",57.8,91.6,132.3,34,2,37
-"163","US16-IL-061-032",58.8,80,130.6,38.8,1.4,20.1
-"164","US16-IL-061-068",58.8,82.9,128.2,38.7,1.2,12.6
-"165","US16-IL-063-026",60,87.1,129.4,38.2,1,14.4
-"166","US16-IL-063-063",58.6,89.3,129.6,35,1.4,18.2
-"167","US17-IL-108-039",58.8,90.9,133.4,36.7,1.7,22.1
-"168","US17-IL-108-067-3",58.6,82.8,130.2,36.6,1.6,25.8
-"169","US17-IL-108-070",59.6,90.6,132.6,37.7,1.1,17.3
-"170","US17-IL-111-005",58,83.5,130,37.3,0.8,14.2
-"171","US17-IL-111-006",59.1,83.7,129.1,36.6,1,14.2
+"","germplasmName","Grain.test.weight...lbs.bu","Grain.yield...bu.ac","Heading.time...Julian.date..JD..","Plant.height.inches","FHB.DON.content...ppm.","FHB.grain.incidence.....","net_merit","notes","Weight..lb."
+"1","07-19334",59.4,91.3,133.1,38.4,1.3,17.9,525.7,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[late, leaning]; YTNeo22[leaning, late]; YTStp22[Npt]; YTUrb22[Sea of heads]",NA
+"2","12-26004",58,79.8,127.6,35.9,0.7,9,507.9,"YTNeo22[leaning]; YTNeo22[leaning]; YTUrb22[Leaning]",NA
+"3","16-8048",59.2,90.1,132.1,37.2,0.8,10.2,540,"AdvHYUrb20[**]",NA
+"4","17-8930",56.8,89.2,127.5,36.2,2.3,29.6,496.3,"AdvCar20[E,]; AdvHYUrb20[mix LandE]; AdvUrb20[mixed]; AdvUrb20[FD]; YTNeo22[clean]; YTNeo22[mix]; YTStp22[Some sterility]; YTUrb22[VE, npt]; YTUrb22[Npt]",NA
+"5","18-12001",58.5,79.1,131,38.3,0.9,13,480,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[clean]; YTNeo22[clean]; YTUrb22[Npt]; YTUrb22[Too tall]",NA
+"6","18-12756",59.1,83.7,130.1,37,0.8,11.2,513.8,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[leaning]; YTNeo22[clean, leaning]; YTStp22[Thick]; YTUrb22[Lodging]; YTUrb22[Leaning]",NA
+"7","18-12809",58.9,81.6,131,38.3,0.8,9.8,497.2,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[semi bearded]; YTUrb22[Thin]; YTUrb22[Leaning]",NA
+"8","18-13748",59.5,78.5,130.8,38.1,0.7,9.7,482.4,"AdvStj21[obs:nice appearance]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[clean]; YTNeo22[ve, clean, tall]; YTUrb22[Leaning]",NA
+"9","18-13756",58.9,75.4,131,37.6,0.8,9.5,462.8,"AdvStj21[obs:bright]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[ve, clean, looks good]; YTUrb22[Tall]; YTUrb22[Tall]",NA
+"10","18-13765",59.3,89.8,130.3,38.7,0.9,11.7,543.6,"AdvStj21[mixture:Mixed]; AdvUrb21[exclude_plot:true, rust:R mixture:Mixed]; AdvUrb21[rust:R mixture:Mixed]; YTNeo22[tall]; YTNeo22[clean]; YTStp22[Tall]; YTUrb22[Lodging]; YTUrb22[Leaning]",NA
+"11","18-13852",58.7,87,133.3,37.8,1.2,16,503.5,"AdvStj21[obs:npt]; AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[late]; YTStp22[Looks mixed]; YTUrb22[Leaning]",NA
+"12","18-13965",59.2,74.2,131.3,36.6,0.7,9.2,456.1,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[clean]; YTStp22[Ugly]; YTUrb22[Small heads]; YTUrb22[Small heads]",NA
+"13","18-14535",58.5,87.9,130.3,36.6,0.9,11,533.7,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; PrCar20[*]; YTNeo22[clean, mixed]; YTNeo22[clean]; YTUrb22[scrappy]",NA
+"14","18-15372",59.2,81.6,129.2,37.5,0.9,12.9,502.9,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[clean]; YTNeo22[clean]; YTUrb22[Leaning]",NA
+"15","18-16828",58.9,78.9,131.3,37.4,1.2,11.9,472.5,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[tall]; YTNeo22[leaning, rust]; YTUrb22[Leaning]; YTUrb22[Lodg]",NA
+"16","18-17119",58.6,82.6,129.3,37.3,1.4,17.2,497.5,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[clean]; YTNeo22[ve, septoria]; YTStp22[Looks good, npt]; YTUrb22[Ve, leaning a bit]; YTUrb22[ve]",NA
+"17","18-17905",58.7,89.5,130.1,37.4,1.3,18.6,530.6,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[sept]; YTUrb22[Early, uniform, on the tall side]; YTUrb22[Sea of heads, looks strong]",NA
+"18","18-22132",60,84.1,130.7,37.9,0.7,10.6,513.6,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; PrCar20[Sprayer damage , sprayer]; YTNeo22[leaning]",NA
+"19","18-22767",58.6,81.3,129.8,38.2,0.7,10.2,502.9,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[lodging]; YTUrb22[Leaning]; YTUrb22[Leaning a bit]",NA
+"20","18-22976",59.5,86.8,131.5,38.2,1.1,10.3,517.4,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[leaning]; YTNeo22[leaning]; YTUrb22[Lodg]; YTUrb22[Leaning]",NA
+"21","18-23224",59.4,81.9,130.1,39.7,1.1,17.8,493.1,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[tall]; YTNeo22[tall]; YTUrb22[Lodg]",NA
+"22","18-23760",58.8,84.1,132.9,38.8,1.4,16.6,485.7,"AdvUrb21[rust:S]; AdvUrb21[rust:MrMs]; YTNeo22[scab]; YTNeo22[scab]; YTUrb22[Tall, uneven]",NA
+"23","18-26037",59.5,88.6,131.3,39,0.8,10.4,534.5,"AdvUrb21[exclude_plot:true, rust:MrMs mixture:Mixed]; AdvUrb21[rust:R]; YTNeo22[lodging]; YTUrb22[Lodging]; YTUrb22[Leaning]",NA
+"24","18-4910",59.9,79.5,130.8,36.5,0.5,6.8,492.1,"AdvStj21[obs:npt]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[leaf rust]; YTUrb22[Npt, erect plant type]; YTUrb22[Small heads]",NA
+"25","18-5737",58.7,81.6,130.7,37.9,0.7,14.1,497.6,"AdvUrb21[rust:S mixture:Mixed]; AdvUrb21[rust:S mixture:Mixed]; YTNeo22[tall]; YTNeo22[septoria]; YTUrb22[Tall]; YTUrb22[Tall]",NA
+"26","18-5837",60,82.5,130.5,37.8,0.7,11.9,505.1,"AdvStj21[mixture:Mixed]; AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[thick]; YTUrb22[Tall]",NA
+"27","18-6274",60.4,90.8,129.4,38.9,1.1,13.6,550.3,"AdvStj21[mixture:Mixed]; AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[clean]; YTNeo22[clean]; YTUrb22[Tall]; YTUrb22[Lodging]",NA
+"28","18-6852",58.6,93,129.4,36,1.3,16.5,555.3,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[npt, scab]; YTNeo22[clean, npt]; YTUrb22[Npt]; YTUrb22[Npt]",NA
+"29","18-7928",59.4,84.8,129.9,35.8,0.9,13.2,517.5,"AdvUrb21[rust:R]; AdvUrb21[exclude_plot:true, rust:]; YTNeo22[clean]; YTStp22[Thick]; YTUrb22[Npt]; YTUrb22[Npt, some leaf rust]",NA
+"30","18-7943",59.1,77.6,129.4,35.9,1.2,19,471.8,"AdvStj21[obs:npt]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[late, scab]; YTNeo22[npt, early, pretty clean]; YTStp22[Npt]; YTUrb22[Npt]; YTUrb22[Npt]",NA
+"31","18-842",58.6,86.8,130,38.2,0.7,11.3,532.2,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; PrCar20[VVE]; YTNeo22[tall, clean]; YTNeo22[tall, sept, ve]",NA
+"32","18-9724",59.8,83.5,130.4,36.7,1.1,13.6,503.6,"AdvStj21[obs:npt]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; YTNeo22[ve]; YTNeo22[ugly]; YTUrb22[Npt]; YTUrb22[Lodging]",NA
+"33","18MSFRS-18",59.5,92.9,132.3,37.3,0.9,11.2,550.5,"AdvStj21[obs:npt]; AdvStj21[obs:npt]; AdvUrb21[rust:R]; AdvUrb21[rust:R]; PrCar20[Sprayer damage , sprayer]; YTNeo22[clean, npt, thick]; YTNeo22[clean]; YTUrb22[Looks awesome, not short, not tall]; YTUrb22[Looks good]",NA
+"34","19-10123",58.8,86.7,128.7,37.7,0.6,10.5,540.9,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[septoria, leaning]; YTUrb22[Leaning]",32.5
+"35","19-10136",60.1,82,130.8,38,0.9,13.8,497.2,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[ve, clean]; YTNeo22[npt, clean]; YTUrb22[Leaning]",31.36
+"36","19-10142",59.9,83,130.8,36.6,0.8,9,506.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTUrb22[Npt, early]",32.23
+"37","19-10151",60.2,85.1,131.2,38,0.9,11.5,513.2,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[clean]; YTUrb22[A bit weak]; YTUrb22[Looks weak]",31.49
+"38","19-10168",60.2,83.1,132.1,38.3,0.9,12.5,496.1,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]",32.15
+"39","19-10173",60.3,82,130.5,38.7,0.8,11.5,500.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTNeo22[leaning]; YTUrb22[Short]",31.2
+"40","19-10236",59.8,78.3,130,38.2,0.6,8.4,487.3,"PrStj21[maturity:E]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[clean, tall]; YTUrb22[A bit tall]",31.65
+"41","19-11163",59.4,82.3,128.4,38.6,0.5,7.8,522.3,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTUrb22[Lodg]",30.94
+"42","19-11770",59.8,85.2,131.8,37,0.5,6.8,519.8,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[septoria]; YTUrb22[Tall]",35.87
+"43","19-11773",60,83.2,130.9,38.8,0.8,14.6,503.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria, ve]; YTNeo22[sept]; YTUrb22[Leaning]",32.84
+"44","19-12420",60,81.7,130.3,38.2,0.7,9.3,503.2,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria, rust]; YTUrb22[Tall]",32.01
+"45","19-12615",59.4,84.9,130.8,39.2,0.9,12.5,514.1,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTStp22[Tall]; YTUrb22[Lodg]; YTUrb22[Leaning]",33.91
+"46","19-12659",59,81.7,128.6,38.8,0.7,9,513.4,"PrStj21[maturity:VE obs:bright, nice appearance]; PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve, septoria]; YTNeo22[sept]; YTUrb22[Leaning]",33.19
+"47","19-12830",59.7,85.4,131,39.4,0.8,14.7,514.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:R]; YTNeo22[tall]; YTNeo22[tall]; YTUrb22[Lodging]; YTUrb22[Tall]",29.44
+"48","19-12849",59.8,79.4,130.9,37.7,1.3,12.1,475.9,"PrStj21[obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[leaning]; YTNeo22[lodging, ve]; YTUrb22[Lodging]; YTUrb22[Leaning]",29.39
+"49","19-12926",59,83.4,129.9,37.6,0.9,11.4,510.7,"PrStj21[maturity:E]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[ve]; YTNeo22[ve, clean]",32.69
+"50","19-13048",58,80.6,130.3,37.8,0.5,9.1,501,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTUrb22[Tall]; YTUrb22[Tall]",31.31
+"51","19-13414",59.9,89.4,132,38,0.9,10.4,533.6,"PrStj21[maturity:L]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTUrb22[Tall]; YTUrb22[Tall]",31.27
+"52","19-13434",60.2,81.2,131,39.9,0.7,11.5,494.6,"PrStj21[obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[tall]",32.36
+"53","19-13447",59.3,83.8,131,37.2,1,16.1,502.2,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[sept]; YTUrb22[Mix]",31.1
+"54","19-13451",59.1,83.6,129.7,37.7,0.8,12.7,513.4,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve]; YTNeo22[clean]; YTUrb22[Leaning]",30.91
+"55","19-13706",59.2,80.6,131.7,38.3,0.6,12.3,488.8,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTNeo22[leaning, tall]; YTUrb22[Tall]; YTUrb22[Lodging]",27.88
+"56","19-13707",60.4,78.6,130.2,38.9,0.5,8.1,490.5,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[sept, tall]; YTNeo22[tall]; YTUrb22[Tall]",29.06
+"57","19-13713",59.1,82.5,129.7,37.9,0.5,7.6,515.8,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall, leaning]; YTUrb22[Leaning]; YTUrb22[Tall]",31.72
+"58","19-13748",60.6,78,130.2,38.5,0.7,9.1,482.9,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve septoria]; YTNeo22[leaning]; YTUrb22[Leaning a bit]",29.13
+"59","19-13752",60,79.7,130.1,39.1,1.2,16.4,481.3,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[tall]",30.12
+"60","19-13778",60.5,78.3,131.6,38.8,0.8,10,475,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[lodging]; YTUrb22[Tall, leaning]; YTUrb22[Thin]",29.4
+"61","19-13936",59.6,82.6,128.9,37.2,0.5,7,520.3,"PrStj21[maturity:VE]; PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[ve, septoria]; YTNeo22[septoria]",33.55
+"62","19-13942",59.1,85.3,128.2,39,0.7,8.5,535.6,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTNeo22[sept]; YTUrb22[See down row]; YTUrb22[Tall]",33.62
+"63","19-13961",58.9,84.8,129.2,37.1,0.6,10.5,528.3,"PrStj21[obs:nice appearance]; PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[sept]; YTNeo22[leaning, rust]; YTUrb22[Disease, leaning]",30.34
+"64","19-13978",59.5,85,128.2,37.9,0.6,8.5,535.7,"PrStj21[maturity:E]; PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[sept]; YTUrb22[Ve, tall]; YTUrb22[Lodg]",34.08
+"65","19-14605",58.2,84.5,130.6,38.7,1,17.2,507,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[sept]; YTNeo22[tall]; YTUrb22[Leaning]; YTUrb22[Too tall]",33.58
+"66","19-14617",58.6,85.8,127.7,37.2,0.5,9.4,545.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[sept]; YTUrb22[Leaning]; YTUrb22[Looks weak]",31.57
+"67","19-14845",58.3,84.5,128.6,38.2,0.6,8.8,530.6,"PrStj21[obs:mixed appearance]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTUrb22[Tall]",33.23
+"68","19-14856",58.5,90.3,127.7,37.4,0.8,11,563.5,"PrStj21[maturity:E]; PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[ve, tip awned]; YTNeo22[ve, septoria]; YTUrb22[A bit tall, ve]; YTUrb22[Leaning]",35.8
+"69","19-14933",58.5,85.5,128,38.4,0.6,9.8,538.5,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTUrb22[Leaning]; YTUrb22[Leaning]",32.9
+"70","19-15017",58.7,82.9,128,38,0.7,15.1,518.3,"PrStj21[maturity:VE]; PrUrb21[exclude_plot:true, rust:R]; PrUrb21[rust:MrMs]; YTNeo22[tall, clean]; YTNeo22[tall, clean]; YTUrb22[Tall]",31.01
+"71","19-15327",58.3,86.5,131.1,39,0.6,11.9,526.5,"PrStj21[maturity:E]; PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[septoria]; YTNeo22[tall]; YTUrb22[Lodg]",33.15
+"72","19-15330",59,85.4,130.8,39,0.7,8.1,522.6,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[septoria]; YTUrb22[Tall]; YTUrb22[Leaning]",32.13
+"73","19-16129",59,87.4,132.4,37.9,0.6,7.7,527.8,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTNeo22[leaning]; YTUrb22[Lodg]",33.01
+"74","19-16136",57.9,90.7,131.5,37.8,0.8,12.7,542.8,"PrStj21[obs:npt]; PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve]; YTUrb22[Lodg]",33.97
+"75","19-16142",59.5,82.8,131.2,37.6,0.8,15.2,498.1,"PrStj21[maturity:E]; PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[leaning]; YTNeo22[tall, leaning]; YTUrb22[Too tall, looks weak]",33.65
+"76","19-16152",58.9,86.5,132,38,0.5,12.9,522.3,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve]; YTNeo22[leaning]; YTUrb22[Looks good]",34.81
+"77","19-16176",59.2,86.3,130.6,37.8,1.2,22.7,510.3,"PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[ve, clean]; YTNeo22[lodging]",35.75
+"78","19-16279",58.7,82.4,130.9,39.1,0.5,6.7,509.7,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTNeo22[lodging]; YTUrb22[Lodging]; YTUrb22[Lodg]",28.01
+"79","19-16325",58.7,82.6,129.9,39.1,0.9,10.5,507.2,"PrStj21[maturity:E obs:awns]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[bearded, leaning]; YTNeo22[lodging]; YTUrb22[Lodging]; YTUrb22[Thin]",26.31
+"80","19-16368",58.8,85.6,131.7,39.3,1.2,20.6,501.9,"PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[leaning, tall]; YTNeo22[leaning]; YTUrb22[Lodging]",34.68
+"81","19-16856",58.6,85.5,132.6,37.8,0.7,10.7,512,"PrStj21[maturity:L obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[leaning, thick, clean]; YTNeo22[leaning]; YTUrb22[Lodging]; YTUrb22[Sea of heads]",34.79
+"82","19-17051",58.3,82.2,130.8,38.2,1.4,18.9,485.7,"PrStj21[maturity:L]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall, septoria]; YTNeo22[lodging]; YTUrb22[Lodging]",26.64
+"83","19-17467",58.7,81.1,132.5,36.7,0.7,12.7,486.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning, mixed]; YTUrb22[Mix]; YTUrb22[Lodg]",27.63
+"84","19-17546",58.6,84.2,128.4,38.3,1,15.2,519.4,"PrStj21[maturity:E]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[sept]; YTUrb22[Tall, ve]",32.45
+"85","19-17662",59.1,86.7,130.4,38.2,0.8,11.6,528.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTUrb22[Leaning]; YTUrb22[Leaning]",33.16
+"86","19-17823",59.1,85.3,133,38.2,0.8,11.2,506.8,"PrStj21[maturity:L]; PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[clean]; YTUrb22[Leaning]; YTUrb22[Leaning]",31.59
+"87","19-18152",59.6,82.2,132.3,37.9,0.8,9.6,494.3,"PrStj21[obs:npt]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTNeo22[lodging]; YTUrb22[Lodging]; YTUrb22[Leaning bad]",22.58
+"88","19-18153",59.2,88.4,131.1,37.8,1,11.2,530.2,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:R]; YTUrb22[Lodging]",32.08
+"89","19-18156",58.9,86.6,132.9,36.5,1,13.1,509,"PrStj21[obs:npt]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[late]; YTNeo22[scab]; YTUrb22[Short]; YTUrb22[Leaning]",29.81
+"90","19-18157",59.3,83.7,131.6,36.4,0.6,10,508.2,"PrStj21[obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:R]; YTNeo22[lodging]; YTUrb22[Leaning]",31.26
+"91","19-18725",58.9,89.2,129.9,36,1.1,23.5,531.6,"PrStj21[FHB:S]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[sacb]; YTUrb22[Npt]",31.78
+"92","19-18826",58.7,88,130.6,37.9,1,13.6,529.8,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[clean, tall]; YTUrb22[Tall]",31.68
+"93","19-18832",58.7,81.5,131.4,36.7,0.6,10,498.3,"PrUrb21[exclude_plot:true, rust:R]; PrUrb21[exclude_plot:true, rust:R]; YTNeo22[septoria]; YTNeo22[lodging, septoria]; YTUrb22[Looks weak]",32.65
+"94","19-18837",59.1,86.2,131.8,37,0.6,7.5,523.9,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[late, leaning]",29.87
+"95","19-18957",58.5,81.5,128.6,36.7,0.5,7.4,515.7,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTUrb22[Lodg]",31.5
+"96","19-19146",58.5,84.2,132,37.8,0.6,11,508,"PrStj21[oats:Moderate obs:suceptible to lodging]; PrStj21[obs:very nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning, clean]; YTNeo22[lodging]; YTUrb22[Lodging]; YTUrb22[Lodging]",30.71
+"97","19-19159",59.3,79.5,131.1,36.9,0.6,8.5,488.6,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[mix]; YTUrb22[Tall]; YTUrb22[Scrappy]",29.15
+"98","19-19205",59.1,85.4,130.2,34.2,1,13.9,516.7,"PrStj21[FHB:S]; PrUrb21[exclude_plot:true, rust:R]; PrUrb21[rust:R]; YTNeo22[septoria]; YTUrb22[Npt]",35.15
+"99","19-20069",58.8,83.3,131,38,0.6,7.8,511.1,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:S]; YTNeo22[ve, septoria]; YTNeo22[ve, sept]; YTUrb22[Ve, short]; YTUrb22[Looks a bit weak]",30.3
+"100","19-20348",58.7,90.4,130.6,37.1,1.1,12.9,541.8,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[thin, septoria]; YTNeo22[tall, septoria]; YTStp22[Leaning]; YTUrb22[Leaning]; YTUrb22[Ve]",33.59
+"101","19-20402",58.3,85.2,131,37.5,1.2,18.9,504.8,"PrStj21[maturity:L]; PrUrb21[rust:S]; PrUrb21[rust:S]; YTNeo22[sept]; YTNeo22[clean, tall]",32.22
+"102","19-20648",60,82.9,131.5,38.7,0.8,8.4,502.8,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTUrb22[Lodging]; YTUrb22[Leaning]",31.44
+"103","19-21467",58.3,86.4,130.3,36.4,1.2,19.4,514.2,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[rust, septoria]; YTUrb22[Tall]; YTUrb22[Some disease]",28.77
+"104","19-21574",58.5,79.6,130.6,38.6,0.8,13.5,485.2,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[talk]; YTNeo22[lodging]; YTStp22[Tall]; YTUrb22[Leaning]; YTUrb22[Lodg]",26.22
+"105","19-21760",58.3,88.2,130.9,35.9,0.6,7.3,541.4,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[septoria]; YTUrb22[Mix]",32.79
+"106","19-21821",59.5,86.7,130.5,38.1,0.8,11,527.8,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTUrb22[Leaning]; YTUrb22[Lodging]",34.22
+"107","19-21829",59,86,130.2,38,0.6,11.6,529.8,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTUrb22[Leaning]",30.57
+"108","19-21846",60.5,83.7,131,38.7,0.9,13.3,504.5,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTNeo22[lodging]",31.71
+"109","19-21848",58.7,88.2,129.6,36.7,0.6,11.3,543.6,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]",20
+"110","19-21865",59.3,82.3,129.4,37.2,0.9,14.4,505.5,"PrStj21[oats:Moderate]; PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[clean, ve]",34.93
+"111","19-21924",59.8,83.6,130.7,40,0.9,11.4,507.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[tall]; YTUrb22[Looks weak]",32.01
+"112","19-22105",59.5,83.4,129.4,38.7,0.7,12.2,516.6,"PrStj21[maturity:E obs:npt]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTUrb22[Looks weak]; YTUrb22[Tall]",26.91
+"113","19-22742",58.6,86.2,129.1,37.1,1.4,20.6,516.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTUrb22[Scab]",32.25
+"114","19-22757",59.7,87.4,129.8,38,0.5,8.8,542.9,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[thick]; YTUrb22[ve, looks uneven]",32.65
+"115","19-23251",58.7,85,130.9,38.7,0.7,14,515.2,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[ve, septoria]; YTNeo22[septoria]",34.03
+"116","19-23336",58.7,85.8,131.3,38.2,0.8,9.6,520.1,"PrStj21[oats:Moderate]; PrUrb21[exclude_plot:true, rust:S]; PrUrb21[rust:MrMs]; YTNeo22[bad plot]; YTUrb22[Lodging]",28.78
+"117","19-23350",58.7,86.8,131.4,37.7,1.2,23.5,508,"PrUrb21[rust:MrMs]; PrUrb21[rust:R]; YTNeo22[leaning]; YTNeo22[leaning, clean]; YTUrb22[Lodg]",33.63
+"118","19-23833",59.7,85.3,132.2,38.4,0.9,16.3,506.2,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTNeo22[leaning]; YTUrb22[Lodging]; YTUrb22[Leaning]",35.45
+"119","19-23855",58.9,82.3,130,38,0.5,7.6,512.7,"PrStj21[maturity:E]; PrStj21[obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[tall, leaning]; YTUrb22[Ve, npt]; YTUrb22[Lodg]",29.03
+"120","19-24051",59,78.4,132.3,36.4,0.8,10.7,472,"PrUrb21[exclude_plot:true, rust:S]; PrUrb21[rust:MrMs]; YTUrb22[Disease]",27.59
+"121","19-24061",58.3,79.3,129,37.7,0.6,7.1,500.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTStp22[Some sterility]; YTUrb22[Leaning]; YTUrb22[Looks weak]",28.37
+"122","19-24076",57.2,81.3,130.9,36.9,0.7,11.2,483.6,"PrStj21[maturity:VL]; PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTUrb22[Tall]",0.13
+"123","19-25126",59.5,89.1,131.7,38.6,0.7,10.8,536.2,"PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[tall, late]; YTNeo22[lodging]; YTUrb22[Tall]; YTUrb22[Lodging]",33.7
+"124","19-25145",59.3,80.8,130,38.7,1.1,11.1,492.8,"PrStj21[obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTUrb22[Lodging]",30.69
+"125","19-25245",59.8,88.4,130.6,38,1,15.4,530.2,"PrUrb21[rust:S]; PrUrb21[rust:S]; YTNeo22[scab, rust]; YTUrb22[Looks weak]",30.32
+"126","19-25464",58.6,86.2,132.2,38.3,1.3,21.3,500.3,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[thick]; YTNeo22[tall, clean, leaning]; YTUrb22[Tall]; YTUrb22[Tall]",32.99
+"127","19-25469",59.2,82.7,129.9,38,0.7,16.1,506.9,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTUrb22[Lodging]; YTUrb22[Leaning]",32.66
+"128","19-25743",60,82.6,131.8,38.1,0.6,8.5,502.7,"PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTNeo22[clean]; YTUrb22[Leaning]",33.82
+"129","19-25764",58.8,84.5,129.3,38.4,0.9,16.5,517.1,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[septoria]; YTNeo22[ve, clean]; YTUrb22[Leaning]",20
+"130","19-26456",59.1,82.8,128.8,36.7,0.9,13.6,511.7,"PrStj21[maturity:E]; PrStj21[maturity:E obs:npt]; PrUrb21[rust:S]; PrUrb21[rust:MrMs]; YTNeo22[ve, npt]; YTUrb22[Sea of heads]; YTUrb22[Scab, Sea of heads]",34.39
+"131","19-26709",58.9,86.2,128.4,37.3,1,10.5,534.5,"PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[sept]; YTUrb22[Very very early]",34.22
+"132","19-27466",58.3,85,131.3,37.3,1,14.1,508.3,"PrStj21[maturity:L]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall, leaning]; YTUrb22[Leaning]",34.77
+"133","19-27478",59,86.2,131.7,37.8,0.8,11.4,517.8,"PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[lodging]; YTUrb22[Leaning]; YTUrb22[Looks weak]",32.8
+"134","19-27565",60.2,90.1,131.3,39.6,0.7,8.9,546.5,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTNeo22[clean, tall]",31.12
+"135","19-27944",59.6,77.6,129.5,37.2,0.7,7.5,486.5,"PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[rust:R]; YTNeo22[clean]; YTNeo22[leaning, clean]; YTUrb22[Sea of heads]; YTUrb22[Looks a bit weak]",28.32
+"136","19-3502",59.6,82.8,129.4,38.8,0.5,7.1,519.4,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTUrb22[Tall]; YTUrb22[Tall]",22.74
+"137","19-3505",59.2,80.7,129.7,39.2,0.7,8.1,502.2,"PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[lodging]; YTStp22[Tall, some sterility]; YTUrb22[Leaning]; YTUrb22[Lodging]",19.56
+"138","19-3510",59.3,84.2,130.3,40.3,0.4,4.7,526.5,"PrStj21[maturity:E]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall, leaning]; YTNeo22[tall, leaning]; YTUrb22[Tall]; YTUrb22[Lodg]",17.88
+"139","19-3528",59.1,86.7,130.3,39.5,0.6,8.4,534.6,"PrStj21[maturity:E]; PrStj21[oats:Moderate]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall, lodging]; YTUrb22[Lodging]; YTUrb22[Leaning]",27.33
+"140","19-3538",57.8,83.6,129.3,37.8,0.8,13.3,513.3,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[clean]; YTNeo22[tall, clean]; YTUrb22[Tall]; YTUrb22[Lodging]",33.2
+"141","19-3943",57.4,86,131.8,38.8,0.6,14.6,507.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[bad plot]; YTNeo22[lodg]; YTStp22[Tall, looks weak]; YTUrb22[Lodging]; YTUrb22[Leaning]",32.63
+"142","19-4014",58.1,84.6,129.6,38.3,0.5,10,526.3,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[lodging, tall]; YTUrb22[Tall]; YTUrb22[Tall]",29.73
+"143","19-4151",59.3,85.3,129.9,38.6,0.8,10.4,523.8,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[ve, tall]; YTUrb22[Tall]",32.83
+"144","19-4176",58.9,84.7,130.5,39,1,16.3,508.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[septoria, tall]; YTUrb22[Tall]; YTUrb22[Tall]",32.36
+"145","19-4238",58.8,80.8,130.1,38.2,0.8,11.1,496.9,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[tall]; YTUrb22[Lodg]; YTUrb22[Tall]",33.03
+"146","19-5009",59.5,78.2,129.7,39,0.8,10,484.5,"PrStj21[maturity:E]; PrStj21[obs:nice appearance]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[tall, clean]; YTUrb22[Leaning]; YTUrb22[Tall]",30.1
+"147","19-5041",59.4,80.6,128.3,39.1,1.2,11.7,499.2,"PrStj21[maturity:E obs:nice appearance]; PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTNeo22[lodging]; YTUrb22[Leaning]; YTUrb22[Leaning]",31.23
+"148","19-5122",59.6,88.4,131.4,37.7,1.2,15.7,522.6,"PrUrb21[rust:R]; PrUrb21[exclude_plot:true, rust:R]; YTNeo22[tall]; YTUrb22[Leaning]; YTUrb22[Leaning]",34.35
+"149","19-5152",58.6,85.4,131.7,38.4,1,14.9,508.8,"PrStj21[maturity:L]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[leaning]; YTUrb22[Tall]",31.99
+"150","19-5466",59.3,89.6,129.8,36.2,1.4,21.8,529.4,"PrUrb21[exclude_plot:true, rust:MrMs]; PrUrb21[rust:MrMs]; YTUrb22[Leaning]",34.91
+"151","19-5632",59,85.9,129.2,36.9,1.4,26.3,508.9,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[ve, septoria]; YTNeo22[leaning]; YTStp22[Mix]; YTUrb22[ve, npt]; YTUrb22[Leaning]",33.69
+"152","19-6308",60.2,83,130.9,37.6,0.8,11.9,503.4,"PrUrb21[rust:S]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[septoria]; YTNeo22[ve, clean, tall]; YTStp22[Thick]; YTUrb22[Lodg]",30.72
+"153","19-6637",59.7,89.1,131,37.3,1.2,15.6,528.7,"PrStj21[maturity:L]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[clean]; YTNeo22[late]",34.43
+"154","19-6704",57.4,86.7,129.4,38.5,0.6,13.1,525.9,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[tall]; YTNeo22[clean, tall]; YTUrb22[Tall]; YTUrb22[Tall]",30.38
+"155","19-6946",58.5,87.9,129.2,37.8,1.1,20,529.5,"PrUrb21[rust:R]; PrUrb21[rust:MrMs]; YTNeo22[tall, sept]; YTNeo22[septoria]",32.84
+"156","19-8449",58.8,84.7,130.4,38.3,1.3,15.4,505.5,"PrStj21[maturity:L  oats:Moderate]; PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[scab,tall]; YTNeo22[clean]; YTUrb22[Tall]",29.64
+"157","19-8870",59.4,85.7,131.2,37.8,0.8,11.8,518.7,"PrUrb21[rust:MrMs]; PrUrb21[exclude_plot:true, rust:MrMs]; YTNeo22[tall]; YTNeo22[leaning]",33.21
+"158","19-8871",58.8,87.8,131.5,38.3,1,13.8,523.6,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[late]; YTNeo22[leaning, late]; YTUrb22[Tall]",29.55
+"159","19-8909",59.4,83.5,131.1,37.4,0.9,13.7,503.9,"PrUrb21[rust:MrMs]; PrUrb21[rust:R]; YTNeo22[scab]; YTUrb22[Npt]",31.15
+"160","19-9608",59.3,85.1,130.6,38.1,1.8,26,490.6,"PrUrb21[rust:R]; PrUrb21[rust:R]; YTNeo22[clean]; YTUrb22[Lodging]",32.92
+"161","Kaskaskia",59.4,78.6,134.1,41.1,2.1,32.3,428.2,"AdvNeo20[lost]; AdvUrb21[rust:MrMs]; AdvUrb21[rust:S]; DHUrb21[mixture:Mixed exclude_plot:true]; PrStj21[FHB:S]; PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]",NA
+"162","Pio 25R74",57.8,91.6,132.3,34,2,37,500.7,"AdvUrb21[rust:R]; AdvUrb21[rust:R]; PrUrb21[rust:R]; PrUrb21[rust:R]",NA
+"163","US16-IL-061-032",58.8,80,130.6,38.8,1.4,20.1,474.9,"AdvStj21[mixture:Mixed]; AdvUrb21[rust:MrMs]; AdvUrb21[rust:S]; YTNeo22[thin, septoria]; YTNeo22[tall]; YTUrb22[Leaning]",NA
+"164","US16-IL-061-068",58.8,82.9,128.2,38.7,1.2,12.6,511.9,"AdvStj21[mixture:Mixed]; AdvStj21[mixture:Mixed]; AdvUrb21[rust:S]; AdvUrb21[rust:S]; PrCar20[VE]; YTNeo22[septoria, tall, ugly]; YTNeo22[septoria, tall]; YTUrb22[Tall]; YTUrb22[Ve, tall, leaning]",NA
+"165","US16-IL-063-026",60,87.1,129.4,38.2,1,14.4,530.9,"AdvUrb21[rust:S]; AdvUrb21[rust:S]; YTNeo22[tall, lodging]; YTNeo22[ve, tall, clean]; YTUrb22[A bit tall]",NA
+"166","US16-IL-063-063",58.6,89.3,129.6,35,1.4,18.2,532.4,"AdvUrb21[rust:S]; AdvUrb21[rust:MrMs]; YTNeo22[npt, clean]; YTStp22[Npt, looks good]; YTUrb22[Ve, npt]; YTUrb22[Npt]",NA
+"167","US17-IL-108-039",58.8,90.9,133.4,36.7,1.7,22.1,511.8,"AdvStj21[obs:npt]; AdvStj21[obs:npt]; AdvUrb21[rust:S]; AdvUrb21[rust:S]; YTNeo22[scab]; YTNeo22[late, leaning a bit]; YTStp22[Npt]; YTUrb22[Leaning]; YTUrb22[Lodg]",NA
+"168","US17-IL-108-067-3",58.6,82.8,130.2,36.6,1.6,25.8,485.7,"PrUrb21[rust:MrMs]; PrUrb21[rust:MrMs]; YTNeo22[lodging]; YTStp22[Lodg]; YTUrb22[Leaning]; YTUrb22[Mix]",33.17
+"169","US17-IL-108-070",59.6,90.6,132.6,37.7,1.1,17.3,527.6,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTNeo22[lodging]; YTNeo22[leaning]; YTUrb22[Looks good, a bit tall]; YTUrb22[Lodg]",NA
+"170","US17-IL-111-005",58,83.5,130,37.3,0.8,14.2,511.1,"AdvUrb21[rust:S]; AdvUrb21[rust:MrMs]; YTNeo22[clean]",NA
+"171","US17-IL-111-006",59.1,83.7,129.1,36.6,1,14.2,513.9,"AdvUrb21[rust:MrMs]; AdvUrb21[rust:MrMs]; YTUrb22[Ve, npt]; YTUrb22[Ve, looks strong]",NA
