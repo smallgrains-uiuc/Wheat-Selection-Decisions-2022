@@ -58,6 +58,7 @@ if(length(which(is.na(allsub3$value.y)))>0){
 relNeeded<- TRUE
 
 #exclude some trials due to poor connectivity or low correlation with TPE
+#Include these studies
 studyEx<- c('YT_Blv_22','Adv_Car_20', 'Adv_Neo_20', 
             'Adv_StJ_20', 'Adv_Urb_20', 'AdvHY_Urb_20', 'YT_War_22')
 allsub3<- allsub3[-which(allsub3$study %in% studyEx),]
